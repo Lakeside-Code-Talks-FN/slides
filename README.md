@@ -1,2 +1,2 @@
 # slides
-Slides from talks
+Slides from talks on https://www.meetup.com/lakesidecodetalksfn
